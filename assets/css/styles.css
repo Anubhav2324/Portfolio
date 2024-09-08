@@ -319,23 +319,16 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__js {
   width: 90%;
 }
 
-.skills__css {
+.skills__react {
+  width: 100%;
+}
+
+.skills__ts {
   width: 85%;
-}
-
-.skills__js {
-  width: 80%;
-}
-
-.skills__node {
-  width: 75%;
-}
-.skills__mong {
-  width: 70%;
 }
 
 .skills__img {
